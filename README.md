@@ -1,8 +1,8 @@
 ### < Hello world />
 
 ### TB Tech
-Hi, Tyler a 17 year old male from the UK
-I also do a lot of frontend and backend develpment during my day-to-day life while i enjoy it alot. Also I really enjoy learning languages.
+Hi, I am Tyler a 17 year old male from the UK.
+I do a lot of frontend and backend develpment during my day-to-day life while I enjoy it alot. I really enjoy learning languages.
 
 ## My IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white) ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
