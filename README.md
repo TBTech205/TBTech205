@@ -1,5 +1,9 @@
 ### < Hello world />
 
+### TB Tech
+Hi, Tyler a 17 year old male from the UK
+I also do a lot of frontend and backend develpment during my day-to-day life while i enjoy it alot. Also I really enjoy learning languages.
+
 ## My IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white) ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
@@ -16,5 +20,5 @@
 ## My browsers
 ![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-## Fund me useing
-![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white) ![PayPal]()
+![My stats](https://github-readme-stats.vercel.app/api?username=TBTech205a&show_icons=true&theme=algolia)
+Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
