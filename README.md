@@ -12,8 +12,6 @@ I do a lot of frontend and backend develpment during my day-to-day life while I 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ## What i want to learn next
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
@@ -22,5 +20,8 @@ I do a lot of frontend and backend develpment during my day-to-day life while I 
 
 ## My stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=TBTech205&show_icons=true&theme=algolia&hide_border=true&disable_animations=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBTech205&show_icons=true&theme=algolia&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
-<!-- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TBTech205)]() -->
 Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Trash
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TBTech205)]() -->
