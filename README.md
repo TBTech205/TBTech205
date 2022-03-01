@@ -20,6 +20,7 @@ I do a lot of frontend and backend develpment during my day-to-day life while I 
 
 ## My stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=TBTech205&show_icons=true&theme=algolia&hide_border=true&disable_animations=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBTech205&show_icons=true&theme=algolia&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TBTech205)]()
 Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Trash
