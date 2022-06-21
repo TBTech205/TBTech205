@@ -7,7 +7,7 @@ Frontend and backend developer
 Hi, I am Tyler a 17 year old male. I do a lot of frontend and backend develpment during my day-to-day life while I enjoy it alot. I really enjoy learning new languages.
 
 *   🌍  I'm based in United Kingdom
-*   🖥️  See my portfolio at [My portfolio that is non existing](http://myapp.app)
+*   🖥️  See my portfolio at [My portfolio (that is non existing)](http://myapp.app)
 *   ✉️  You can contact me at [tylerbeadle685@gmail.com](mailto:tylerbeadle685@gmail.com)
 *   🚀  I'm currently working on [BobCat](http://www.bobcatbot.xyz)
 *   🧠  I'm learning React.js
@@ -15,6 +15,7 @@ Hi, I am Tyler a 17 year old male. I do a lot of frontend and backend develpment
 
 ### Skills
 <p align="left">
+    
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -44,6 +45,8 @@ Hi, I am Tyler a 17 year old male. I do a lot of frontend and backend develpment
 
 ### Badges
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/tbtech205"><img src="https://github-readme-stats.vercel.app/api?username=tbtech205&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tbtech205's GitHub stats" /></a>
-<a href="https://github.com/tbtech205" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbtech205&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+    <a href="http://www.github.com/tbtech205"><img src="https://github-readme-stats.vercel.app/api?username=tbtech205&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tbtech205's GitHub stats" /></a>
+    <a href="https://github.com/tbtech205" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbtech205&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
